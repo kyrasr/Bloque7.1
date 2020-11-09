@@ -1,0 +1,12 @@
+li{
+    list-style-type: circle;
+}
+li{
+    list-style-type: decimal;
+}
+li.segundo{
+    list-style-type: upper-roman;
+}
+li.tercero{
+    list-style-type: lower-latin;
+}
